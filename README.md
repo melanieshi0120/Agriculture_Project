@@ -34,5 +34,4 @@
  - Major assets help determine the farm's ability to thrive in the market
  
  ### Sources
-  - 
   - https://www.nass.usda.gov/Publications/AgCensus/2017/index.php#highlights
