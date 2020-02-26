@@ -32,6 +32,7 @@
  # EDA
  
  ![ridge_model_residuall_distribution.png](ridge_model_residuall_distribution.png)
+![prediction_actual_values.png](prediction_actual_values.png)
  
  
  # Feature Explanation
