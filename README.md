@@ -14,6 +14,14 @@
  - Created categorical dummy variables for region and land size
  - Took the square root of the target variable
  
+ # Statistical Tests
+ - Chi squared test on 4 regions of the US
+   - Reject the null hypothesis that the means of the region are the same
+ - Two sample mean test
+   - Rejected null hypothesis that the means of workers working more or less than 150 days are the same
+ - Chi squared test on the categorical size of the Land
+   - Reject the null hypothesis that the means of the size of land are the same
+ 
  # Linear Models used
  - Scaled the data using the standard scalar
  - Train-test-split the data 
