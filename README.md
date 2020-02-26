@@ -29,7 +29,7 @@
  - Performed three regression models on the overall data as well as the the four separate regions of the U.S
  - Found the best model to be the Ridge Regression
  
- #EDA
+ # EDA
  
  ![ridge_model_residuall_distribution.png](ridge_model_residuall_distribution.png)
  
