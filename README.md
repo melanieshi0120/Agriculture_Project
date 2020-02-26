@@ -35,3 +35,4 @@
  
  ### Sources
   - https://www.nass.usda.gov/Publications/AgCensus/2017/index.php#highlights
+  - https://docs.google.com/presentation/d/1VkiJMo7tENhxQyWEJM6R-SV0TAAuppFtSI037s9Xv_s/edit#slide=id.g7e392c2e99_0_119
